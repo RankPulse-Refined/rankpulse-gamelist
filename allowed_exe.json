@@ -1,5 +1,6 @@
 [
   "/Applications/Roblox.app/Contents/MacOS/RobloxPlayer",
+  "/Applications/Antigravity.app/Contents/MacOS/Electron",
   "ACValhalla.exe",
   "AmongUs.exe",
   "AoE4.exe",
@@ -122,5 +123,6 @@
   "Panicore-Win64-Shipping.exe",
   "GRIS.exe",
   "ArmaReforgerSteam.exe",
-  "SandFall-Win64-Shipping.exe"
+  "SandFall-Win64-Shipping.exe",
+  "Antigravity.exe"
 ]
